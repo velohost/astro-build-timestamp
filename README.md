@@ -161,7 +161,7 @@ MIT
 
 ## Author
 
-Built and maintained by **Velohost**  
+Built and maintained by **Velohost UK Limited**  
 https://velohost.co.uk/
 
 Project homepage:  
